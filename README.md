@@ -1,4 +1,4 @@
-# BRAT Image Generator API
+u# BRAT Image Generator API
 
 Simple REST API untuk menghasilkan gambar teks bergaya **BRAT** menggunakan **Node.js** tanpa browser ataupun Puppeteer.
 
