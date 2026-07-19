@@ -49,7 +49,7 @@ ganteng
 Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/brat-image-api.git
+https://github.com/IyanzNotDev/Endpoint-Image-Brat.git
 ```
 
 Masuk ke folder project
